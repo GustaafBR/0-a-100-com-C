@@ -8,3 +8,5 @@
 ⚠️ Os códigos serão adicionados aos poucos, toda sexta feira!
 
 ▶️ Mais detalhes sobre cada código estarão disponíveis em minhas postagens no LinkedIn: https://www.linkedin.com/in/gustavo-a-f/
+
+▶️ Lembrando mais uma vez que caso também queira fazer os exercícios, a lista está no curso de algoritmos do Curso em Vídeo, do Gustavo Guanabara: https://lnkd.in/e3zAtMSs
